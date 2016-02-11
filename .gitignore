@@ -1,0 +1,6 @@
+env_project
+*DS_Store 
+*.pyc 
+__pychache__
+tmp
+db.sqlite3
